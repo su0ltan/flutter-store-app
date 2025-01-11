@@ -1,0 +1,23 @@
+# ASP.NET
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Flutter
+.flutter-plugins/
+.flutter-plugins-dependencies/
+.dart_tool/
+build/
+pubspec.lock
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# IDE Files
+.idea/
